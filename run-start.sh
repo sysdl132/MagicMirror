@@ -1,5 +1,6 @@
 #!/bin/bash
   # use bash instead of sh
+# install
 ./untrack-css.sh
 
 if [ -z "$DISPLAY" ]; then #If not set DISPLAY is SSH remote or tty
